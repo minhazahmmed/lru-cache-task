@@ -1,0 +1,23 @@
+I used Claude Ai free version for this assesment
+
+For Task 1:
+Ai Prompt:
+
+Prompt 1:
+This is task 1 
+I use React router, and also tailwind css and daisy ui, for icons I use react icons and als if needed graph chart I will use recharts,,
+give me firstly full project folder structure and then give me readable and user friendly reusable code and also give me all packages I install command,,
+I use react vite  
+also make fully responsive website
+
+Prompt 2:
+explain full project how it works with bangla..
+Is all requirement fulfil??
+
+-----------------------------------------------------------------
+
+For Task 2:
+Ai Prompt:
+
+Prompt 1:
+now make this task with similarly  previous tech stack and also font and font color will be black and also font size medium not very small
